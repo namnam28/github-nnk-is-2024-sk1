@@ -1,0 +1,15 @@
+c:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\bin\Debug\net8.0\001-prvni-program-vypis-rady.exe
+c:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\bin\Debug\net8.0\001-prvni-program-vypis-rady.deps.json
+c:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\bin\Debug\net8.0\001-prvni-program-vypis-rady.runtimeconfig.json
+c:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\bin\Debug\net8.0\001-prvni-program-vypis-rady.dll
+c:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\bin\Debug\net8.0\001-prvni-program-vypis-rady.pdb
+c:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\obj\Debug\net8.0\001-prvni-program-vypis-rady.GeneratedMSBuildEditorConfig.editorconfig
+c:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\obj\Debug\net8.0\001-prvni-program-vypis-rady.AssemblyInfoInputs.cache
+c:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\obj\Debug\net8.0\001-prvni-program-vypis-rady.AssemblyInfo.cs
+c:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\obj\Debug\net8.0\001-prvni-program-vypis-rady.csproj.CoreCompileInputs.cache
+c:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\obj\Debug\net8.0\001-prvni-program-vypis-rady.sourcelink.json
+c:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\obj\Debug\net8.0\001-prvni-program-vypis-rady.dll
+c:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\obj\Debug\net8.0\refint\001-prvni-program-vypis-rady.dll
+c:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\obj\Debug\net8.0\001-prvni-program-vypis-rady.pdb
+c:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\obj\Debug\net8.0\001-prvni-program-vypis-rady.genruntimeconfig.cache
+c:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\obj\Debug\net8.0\ref\001-prvni-program-vypis-rady.dll

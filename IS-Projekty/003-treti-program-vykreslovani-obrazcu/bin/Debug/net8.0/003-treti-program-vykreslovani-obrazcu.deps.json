@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "003-treti-program-vykreslovani-obrazcu/1.0.0": {
+        "runtime": {
+          "003-treti-program-vykreslovani-obrazcu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "003-treti-program-vykreslovani-obrazcu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003-treti-program-vykreslovani-obrazcu\bin\Debug\net8.0\003-treti-program-vykreslovani-obrazcu.exe
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003-treti-program-vykreslovani-obrazcu\bin\Debug\net8.0\003-treti-program-vykreslovani-obrazcu.deps.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003-treti-program-vykreslovani-obrazcu\bin\Debug\net8.0\003-treti-program-vykreslovani-obrazcu.runtimeconfig.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003-treti-program-vykreslovani-obrazcu\bin\Debug\net8.0\003-treti-program-vykreslovani-obrazcu.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003-treti-program-vykreslovani-obrazcu\bin\Debug\net8.0\003-treti-program-vykreslovani-obrazcu.pdb
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003-treti-program-vykreslovani-obrazcu\obj\Debug\net8.0\003-treti-program-vykreslovani-obrazcu.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003-treti-program-vykreslovani-obrazcu\obj\Debug\net8.0\003-treti-program-vykreslovani-obrazcu.AssemblyInfoInputs.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003-treti-program-vykreslovani-obrazcu\obj\Debug\net8.0\003-treti-program-vykreslovani-obrazcu.AssemblyInfo.cs
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003-treti-program-vykreslovani-obrazcu\obj\Debug\net8.0\003-treti-program-vykreslovani-obrazcu.csproj.CoreCompileInputs.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003-treti-program-vykreslovani-obrazcu\obj\Debug\net8.0\003-treti-program-vykreslovani-obrazcu.sourcelink.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003-treti-program-vykreslovani-obrazcu\obj\Debug\net8.0\003-treti-program-vykreslovani-obrazcu.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003-treti-program-vykreslovani-obrazcu\obj\Debug\net8.0\refint\003-treti-program-vykreslovani-obrazcu.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003-treti-program-vykreslovani-obrazcu\obj\Debug\net8.0\003-treti-program-vykreslovani-obrazcu.pdb
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003-treti-program-vykreslovani-obrazcu\obj\Debug\net8.0\003-treti-program-vykreslovani-obrazcu.genruntimeconfig.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003-treti-program-vykreslovani-obrazcu\obj\Debug\net8.0\ref\003-treti-program-vykreslovani-obrazcu.dll

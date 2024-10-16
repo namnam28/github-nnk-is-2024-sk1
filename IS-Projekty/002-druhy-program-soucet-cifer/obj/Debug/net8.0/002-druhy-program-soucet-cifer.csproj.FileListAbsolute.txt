@@ -3,3 +3,13 @@ C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\002-druhy-program-souc
 C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\002-druhy-program-soucet-cifer\obj\Debug\net8.0\002-druhy-program-soucet-cifer.AssemblyInfo.cs
 C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\002-druhy-program-soucet-cifer\obj\Debug\net8.0\002-druhy-program-soucet-cifer.csproj.CoreCompileInputs.cache
 C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\002-druhy-program-soucet-cifer\obj\Debug\net8.0\002-druhy-program-soucet-cifer.sourcelink.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\002-druhy-program-soucet-cifer\bin\Debug\net8.0\002-druhy-program-soucet-cifer.exe
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\002-druhy-program-soucet-cifer\bin\Debug\net8.0\002-druhy-program-soucet-cifer.deps.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\002-druhy-program-soucet-cifer\bin\Debug\net8.0\002-druhy-program-soucet-cifer.runtimeconfig.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\002-druhy-program-soucet-cifer\bin\Debug\net8.0\002-druhy-program-soucet-cifer.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\002-druhy-program-soucet-cifer\bin\Debug\net8.0\002-druhy-program-soucet-cifer.pdb
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\002-druhy-program-soucet-cifer\obj\Debug\net8.0\002-druhy-program-soucet-cifer.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\002-druhy-program-soucet-cifer\obj\Debug\net8.0\refint\002-druhy-program-soucet-cifer.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\002-druhy-program-soucet-cifer\obj\Debug\net8.0\002-druhy-program-soucet-cifer.pdb
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\002-druhy-program-soucet-cifer\obj\Debug\net8.0\002-druhy-program-soucet-cifer.genruntimeconfig.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\002-druhy-program-soucet-cifer\obj\Debug\net8.0\ref\002-druhy-program-soucet-cifer.dll

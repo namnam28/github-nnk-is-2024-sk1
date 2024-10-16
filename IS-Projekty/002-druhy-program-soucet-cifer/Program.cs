@@ -23,6 +23,7 @@ class Program {
             }
             
             int suma = 0;
+            int multi = 1;
             int numberBackup = number;
             int digit;
 
@@ -31,14 +32,22 @@ class Program {
                 number = (number-digit)/10;
                 Console.WriteLine("Digit = {0}", digit);
                 suma = suma + digit;
+                multi = multi * digit;
             }
             Console.WriteLine("Digit = {0}", number);
 
             // musíme přičíst poslední cyklus
             suma = suma + number;
 
+             // musíme přičíst poslední cyklus
+            multi = multi * number;
+
             Console.WriteLine();
-            Console.WriteLine("\n\n\nSoučet cifer čísla {0} je {1}", numberBackup, suma,);
+            Console.WriteLine("\n\n\nSoučet cifer čísla {0} je {1}", numberBackup, suma );
+            Console.WriteLine("\nSoučin cifer čísla {0} je {1}", numberBackup, multi );
+           
+
+           
 
             Console.WriteLine();
             Console.WriteLine("Pro opakování programu stiskněte klávesu a");

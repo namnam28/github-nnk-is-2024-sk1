@@ -1,60 +1,51 @@
-﻿using System;
-using System.Data;
+﻿using System.Globalization;
 
-class Program {
+string again = "a";
 
-    static void Main() {
-
-        string again = "a";
-
-        while(again == "a") {
+        while (again == "a") {
             Console.Clear();
             Console.WriteLine("***************************");
-            Console.WriteLine("***Vykreslování obrazce****");
+            Console.WriteLine("*********Obdélník**********");
             Console.WriteLine("***************************");
             Console.WriteLine("*******Ngo Nam Khánh*******");
             Console.WriteLine("***************************");
             Console.WriteLine();
 
-            Console.Write("Zadejte celé číslo ");
+            Console.Write("Zadejte šířku obrazce (celé číslo): ");
             int width;
             while(!int.TryParse(Console.ReadLine(), out width)) {
-                Console.WriteLine("Nezadali jste celé číslo. Zadejte znovu" );
-           }
-            
-            Console.Write("Zadejte celé číslo ");
+                Console.Write("Nezadali jste celé číslo. Zadejte znovu šířku: ");
+            }
+
+            Console.Write("Zadejte šířku obrazce (celé číslo): ");
             int height;
-            while(!int.TryParse(Console.ReadLine(), out height)) {
-                Console.WriteLine("Nezadali jste celé číslo. Zadejte znovu" );
+            while(!int.TryParse(Console.Readline(), out height)) {
+                Console.Write("Nezadali jste celé číslo. Zadejte znovu výšku ");
             }
 
-            for(int i=1; i <= 10 ; i++); {
-                Console.WriteLine(i);
-            }
 
-            //int j = 1;
-            //while(j <= 10) {
-                //Console.WriteLine(j);
-                //j++;
-            }
+            // for(int i=1; i <= 10; i++) {
+            //     Console.Writeline(i);
+            // }
 
-            for(int i=1; i<= height; i++) {
-                for(int j=1; j<=width; j++) {
-                    Console.Write(" ");
-                    System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(100));
+            // int j = 1
+            // while(j <= 10) {
+            //      Console.WriteLine(j)
+            //      j++;
+            //}
+
+            for(int i= 1; i<= height; i++) {
+                for (int j=1; j<=width; j++) {
+                    Console.Write("* ");
+
+                    // zpoždění
+                    System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(50));
                 }
-                Console.WriteLine();    
+                Console.WriteLine();
             }
 
-            
-            
-            
-            
-            
-            
             Console.WriteLine();
-            Console.WriteLine("Pro opakování programu stiskněte klávesu a");
+            Console.WriteLine("Pro opakování programu stiskněte klávesu A");
             again = Console.ReadLine();
+            
         }
-     }
-}

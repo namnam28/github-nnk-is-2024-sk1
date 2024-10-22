@@ -1,32 +1,36 @@
-using System.Globalization;
-
 string again = "a";
+while(again == "a");
 
-    while(again == "a") {
-        Console.Clear();
-        Console.WriteLine("******************************"); 
-        Console.WriteLine("****Pravoúhlý trojúhelník*****"); 
-        Console.WriteLine("******************************"); 
-        Console.WriteLine("********Ngo Nam Khánh*********"); 
-        Console.WriteLine("******************************"); 
-        Console.WriteLine();
-
-        Console.Write("Zadejte výšku obrazce (celé číslo): ");
-        int height;
-        while(!int.TryParse(Console.ReadLine(), out height)) {
-            Console.Write("Nezadali jste celé číslo. Zadejte znovu výšku: ");
-        }
-
-        for(int i=1; i<= height; i++) {
-            for(int j=1; j<= height; j++) {
-                Console.Write("* ");
-
-                System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(50));
-            }
+            Console.Clear();
+            Console.WriteLine("********************"); 
+            Console.WriteLine("***Trojúhelník******"); 
+            Console.WriteLine("********************"); 
+            Console.WriteLine("***Ngo Nam Khán*****"); 
+            Console.WriteLine("********************"); 
             Console.WriteLine();
-        }
-        Console.WriteLine();
-        Console.WriteLine("Pro opakování programu stiskněte klávesu A");
-        again = Console.ReadLine();
-    }
+            Console.WriteLine();
 
+            Console.Write("Zadejte číslo (celé číslo): ");
+            uint a;
+            while(!uint.TryParse(Console.ReadLine(), out a)) {
+                Console.Write("Nezadali jste celé číslo. Zadejte prrvní číslo znovu: ");
+            }
+
+            Console.WriteLine(); 
+            Console.WriteLine("====================================="); 
+            Console.WriteLine("Zadané hodnoty: "); 
+            Console.WriteLine("Šířka: {0}", a);
+            Console.WriteLine("====================================="); 
+
+            for(int y = 1; y <= a ;y++){
+                for(int x = 1; x <= y ;x++) {
+                    Console.Write("* ");
+                    System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(100));
+                }
+                Console.WriteLine();
+            }
+
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine("Program můžete opakovat stiskem klávesy 'a' ");
+            again = Console.ReadLine();

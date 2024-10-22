@@ -19,7 +19,7 @@ string again = "a";
 
             Console.Write("Zadejte šířku obrazce (celé číslo): ");
             int height;
-            while(!int.TryParse(Console.Readline(), out height)) {
+            while(!int.TryParse(Console.ReadLine(), out height)) {
                 Console.Write("Nezadali jste celé číslo. Zadejte znovu výšku ");
             }
 
@@ -47,5 +47,5 @@ string again = "a";
             Console.WriteLine();
             Console.WriteLine("Pro opakování programu stiskněte klávesu A");
             again = Console.ReadLine();
-            
+
         }

@@ -3,9 +3,9 @@ while(again == "a") {
 
     Console.Clear();
     Console.WriteLine("***********************"); 
-    Console.WriteLine("****Trojúhelník******"); 
+    Console.WriteLine("******Trojúhelník******"); 
     Console.WriteLine("***********************"); 
-    Console.WriteLine("*****Ngo Nam Khánh*******"); 
+    Console.WriteLine("*****Ngo Nam Khánh*****"); 
     Console.WriteLine();
     Console.WriteLine();
 

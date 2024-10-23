@@ -1,0 +1,15 @@
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003b-trojuhelnik\bin\Debug\net8.0\003b-trojuhelnik.exe
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003b-trojuhelnik\bin\Debug\net8.0\003b-trojuhelnik.deps.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003b-trojuhelnik\bin\Debug\net8.0\003b-trojuhelnik.runtimeconfig.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003b-trojuhelnik\bin\Debug\net8.0\003b-trojuhelnik.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003b-trojuhelnik\bin\Debug\net8.0\003b-trojuhelnik.pdb
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003b-trojuhelnik\obj\Debug\net8.0\003b-trojuhelnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003b-trojuhelnik\obj\Debug\net8.0\003b-trojuhelnik.AssemblyInfoInputs.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003b-trojuhelnik\obj\Debug\net8.0\003b-trojuhelnik.AssemblyInfo.cs
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003b-trojuhelnik\obj\Debug\net8.0\003b-trojuhelnik.csproj.CoreCompileInputs.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003b-trojuhelnik\obj\Debug\net8.0\003b-trojuhelnik.sourcelink.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003b-trojuhelnik\obj\Debug\net8.0\003b-trojuhelnik.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003b-trojuhelnik\obj\Debug\net8.0\refint\003b-trojuhelnik.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003b-trojuhelnik\obj\Debug\net8.0\003b-trojuhelnik.pdb
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003b-trojuhelnik\obj\Debug\net8.0\003b-trojuhelnik.genruntimeconfig.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\003b-trojuhelnik\obj\Debug\net8.0\ref\003b-trojuhelnik.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("003b-trojuhelnik")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec00dba78d98ae1dc9a3ba7f5ebbf15370eed25a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a54471cc316f8bb0387148402c9ad0329054708")]
 [assembly: System.Reflection.AssemblyProductAttribute("003b-trojuhelnik")]
 [assembly: System.Reflection.AssemblyTitleAttribute("003b-trojuhelnik")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

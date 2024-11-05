@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\programming\\IS-2024\\github-nnk-is-2024-sk1\\IS-Projekty\\001-prvni-program-vypis-rady\\001-prvni-program-vypis-rady.csproj": {}
+    "C:\\programming\\IS-2024\\github-nnk-is-2024-sk1\\IS-Projekty\\004b-obrazec-1\\004b-obrazec-1.csproj": {}
   },
   "projects": {
-    "C:\\programming\\IS-2024\\github-nnk-is-2024-sk1\\IS-Projekty\\001-prvni-program-vypis-rady\\001-prvni-program-vypis-rady.csproj": {
+    "C:\\programming\\IS-2024\\github-nnk-is-2024-sk1\\IS-Projekty\\004b-obrazec-1\\004b-obrazec-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\programming\\IS-2024\\github-nnk-is-2024-sk1\\IS-Projekty\\001-prvni-program-vypis-rady\\001-prvni-program-vypis-rady.csproj",
-        "projectName": "001-prvni-program-vypis-rady",
-        "projectPath": "C:\\programming\\IS-2024\\github-nnk-is-2024-sk1\\IS-Projekty\\001-prvni-program-vypis-rady\\001-prvni-program-vypis-rady.csproj",
+        "projectUniqueName": "C:\\programming\\IS-2024\\github-nnk-is-2024-sk1\\IS-Projekty\\004b-obrazec-1\\004b-obrazec-1.csproj",
+        "projectName": "004b-obrazec-1",
+        "projectPath": "C:\\programming\\IS-2024\\github-nnk-is-2024-sk1\\IS-Projekty\\004b-obrazec-1\\004b-obrazec-1.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\programming\\IS-2024\\github-nnk-is-2024-sk1\\IS-Projekty\\001-prvni-program-vypis-rady\\obj\\",
+        "outputPath": "C:\\programming\\IS-2024\\github-nnk-is-2024-sk1\\IS-Projekty\\004b-obrazec-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"

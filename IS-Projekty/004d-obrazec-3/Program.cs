@@ -9,11 +9,11 @@ class Program {
         string again = "a";
         while(again == "a") {
             //Console.Clear();
-            Console.WriteLine("**************************");
-            Console.WriteLine("******* Výpis řady *******");
-            Console.WriteLine("**************************");
-            Console.WriteLine("****** Thinh Duc Le ******");
-            Console.WriteLine("**************************\n\n");
+            Console.WriteLine("****************************");
+            Console.WriteLine("******* Výpis řady *********");
+            Console.WriteLine("****************************");
+            Console.WriteLine("****** Ngo Nam Khánh ******");
+            Console.WriteLine("****************************\n\n");
             Console.WriteLine();
 
             // Vstup od uživatele

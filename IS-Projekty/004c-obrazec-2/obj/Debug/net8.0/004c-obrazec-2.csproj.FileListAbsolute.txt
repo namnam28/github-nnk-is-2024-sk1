@@ -1,0 +1,15 @@
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\004c-obrazec-2\bin\Debug\net8.0\004c-obrazec-2.exe
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\004c-obrazec-2\bin\Debug\net8.0\004c-obrazec-2.deps.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\004c-obrazec-2\bin\Debug\net8.0\004c-obrazec-2.runtimeconfig.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\004c-obrazec-2\bin\Debug\net8.0\004c-obrazec-2.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\004c-obrazec-2\bin\Debug\net8.0\004c-obrazec-2.pdb
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\004c-obrazec-2\obj\Debug\net8.0\004c-obrazec-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\004c-obrazec-2\obj\Debug\net8.0\004c-obrazec-2.AssemblyInfoInputs.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\004c-obrazec-2\obj\Debug\net8.0\004c-obrazec-2.AssemblyInfo.cs
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\004c-obrazec-2\obj\Debug\net8.0\004c-obrazec-2.csproj.CoreCompileInputs.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\004c-obrazec-2\obj\Debug\net8.0\004c-obrazec-2.sourcelink.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\004c-obrazec-2\obj\Debug\net8.0\004c-obrazec-2.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\004c-obrazec-2\obj\Debug\net8.0\refint\004c-obrazec-2.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\004c-obrazec-2\obj\Debug\net8.0\004c-obrazec-2.pdb
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\004c-obrazec-2\obj\Debug\net8.0\004c-obrazec-2.genruntimeconfig.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\004c-obrazec-2\obj\Debug\net8.0\ref\004c-obrazec-2.dll

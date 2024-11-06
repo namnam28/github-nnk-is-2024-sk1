@@ -1,0 +1,15 @@
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\005-max-min\bin\Debug\net8.0\005-max-min.exe
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\005-max-min\bin\Debug\net8.0\005-max-min.deps.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\005-max-min\bin\Debug\net8.0\005-max-min.runtimeconfig.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\005-max-min\bin\Debug\net8.0\005-max-min.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\005-max-min\bin\Debug\net8.0\005-max-min.pdb
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\005-max-min\obj\Debug\net8.0\005-max-min.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\005-max-min\obj\Debug\net8.0\005-max-min.AssemblyInfoInputs.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\005-max-min\obj\Debug\net8.0\005-max-min.AssemblyInfo.cs
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\005-max-min\obj\Debug\net8.0\005-max-min.csproj.CoreCompileInputs.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\005-max-min\obj\Debug\net8.0\005-max-min.sourcelink.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\005-max-min\obj\Debug\net8.0\005-max-min.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\005-max-min\obj\Debug\net8.0\refint\005-max-min.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\005-max-min\obj\Debug\net8.0\005-max-min.pdb
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\005-max-min\obj\Debug\net8.0\005-max-min.genruntimeconfig.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\005-max-min\obj\Debug\net8.0\ref\005-max-min.dll

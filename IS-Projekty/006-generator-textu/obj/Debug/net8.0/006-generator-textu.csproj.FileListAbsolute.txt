@@ -1,0 +1,5 @@
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\006-generator-textu\obj\Debug\net8.0\006-generator-textu.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\006-generator-textu\obj\Debug\net8.0\006-generator-textu.AssemblyInfoInputs.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\006-generator-textu\obj\Debug\net8.0\006-generator-textu.AssemblyInfo.cs
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\006-generator-textu\obj\Debug\net8.0\006-generator-textu.csproj.CoreCompileInputs.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\006-generator-textu\obj\Debug\net8.0\006-generator-textu.sourcelink.json

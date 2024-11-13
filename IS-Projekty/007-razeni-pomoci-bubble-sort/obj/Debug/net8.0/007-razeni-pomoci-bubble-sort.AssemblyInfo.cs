@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("007-razeni-pomoci-bubble-sort")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90811821bf1822610f3e99b5edecdb1210ec807d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28289e3a5cd2365c534b859f006205ec58a6f506")]
 [assembly: System.Reflection.AssemblyProductAttribute("007-razeni-pomoci-bubble-sort")]
 [assembly: System.Reflection.AssemblyTitleAttribute("007-razeni-pomoci-bubble-sort")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

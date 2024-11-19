@@ -1,0 +1,15 @@
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\008-selection-sort\bin\Debug\net9.0\008-selection-sort.exe
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\008-selection-sort\bin\Debug\net9.0\008-selection-sort.deps.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\008-selection-sort\bin\Debug\net9.0\008-selection-sort.runtimeconfig.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\008-selection-sort\bin\Debug\net9.0\008-selection-sort.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\008-selection-sort\bin\Debug\net9.0\008-selection-sort.pdb
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\008-selection-sort\obj\Debug\net9.0\008-selection-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\008-selection-sort\obj\Debug\net9.0\008-selection-sort.AssemblyInfoInputs.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\008-selection-sort\obj\Debug\net9.0\008-selection-sort.AssemblyInfo.cs
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\008-selection-sort\obj\Debug\net9.0\008-selection-sort.csproj.CoreCompileInputs.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\008-selection-sort\obj\Debug\net9.0\008-selection-sort.sourcelink.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\008-selection-sort\obj\Debug\net9.0\008-selection-sort.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\008-selection-sort\obj\Debug\net9.0\refint\008-selection-sort.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\008-selection-sort\obj\Debug\net9.0\008-selection-sort.pdb
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\008-selection-sort\obj\Debug\net9.0\008-selection-sort.genruntimeconfig.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\008-selection-sort\obj\Debug\net9.0\ref\008-selection-sort.dll

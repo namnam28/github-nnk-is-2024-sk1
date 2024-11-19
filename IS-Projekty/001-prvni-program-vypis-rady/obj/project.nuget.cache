@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "0W73fwNMIB8=",
+  "dgSpecHash": "uTaRDeTf+uw=",
   "success": true,
   "projectFilePath": "C:\\programming\\IS-2024\\github-nnk-is-2024-sk1\\IS-Projekty\\001-prvni-program-vypis-rady\\001-prvni-program-vypis-rady.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.11\\microsoft.netcore.app.host.win-x64.8.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

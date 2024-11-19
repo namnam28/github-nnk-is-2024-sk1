@@ -1,0 +1,15 @@
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\007-razeni-pomoci-bubble-sort\bin\Debug\net8.0\007-razeni-pomoci-bubble-sort.exe
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\007-razeni-pomoci-bubble-sort\bin\Debug\net8.0\007-razeni-pomoci-bubble-sort.deps.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\007-razeni-pomoci-bubble-sort\bin\Debug\net8.0\007-razeni-pomoci-bubble-sort.runtimeconfig.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\007-razeni-pomoci-bubble-sort\bin\Debug\net8.0\007-razeni-pomoci-bubble-sort.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\007-razeni-pomoci-bubble-sort\bin\Debug\net8.0\007-razeni-pomoci-bubble-sort.pdb
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\007-razeni-pomoci-bubble-sort\obj\Debug\net8.0\007-razeni-pomoci-bubble-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\007-razeni-pomoci-bubble-sort\obj\Debug\net8.0\007-razeni-pomoci-bubble-sort.AssemblyInfoInputs.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\007-razeni-pomoci-bubble-sort\obj\Debug\net8.0\007-razeni-pomoci-bubble-sort.AssemblyInfo.cs
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\007-razeni-pomoci-bubble-sort\obj\Debug\net8.0\007-razeni-pomoci-bubble-sort.csproj.CoreCompileInputs.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\007-razeni-pomoci-bubble-sort\obj\Debug\net8.0\007-razeni-pomoci-bubble-sort.sourcelink.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\007-razeni-pomoci-bubble-sort\obj\Debug\net8.0\007-razeni-pomoci-bubble-sort.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\007-razeni-pomoci-bubble-sort\obj\Debug\net8.0\refint\007-razeni-pomoci-bubble-sort.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\007-razeni-pomoci-bubble-sort\obj\Debug\net8.0\007-razeni-pomoci-bubble-sort.pdb
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\007-razeni-pomoci-bubble-sort\obj\Debug\net8.0\007-razeni-pomoci-bubble-sort.genruntimeconfig.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\007-razeni-pomoci-bubble-sort\obj\Debug\net8.0\ref\007-razeni-pomoci-bubble-sort.dll

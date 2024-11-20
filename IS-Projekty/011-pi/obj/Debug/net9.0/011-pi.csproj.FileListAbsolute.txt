@@ -1,0 +1,15 @@
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\011-pi\bin\Debug\net9.0\011-pi.exe
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\011-pi\bin\Debug\net9.0\011-pi.deps.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\011-pi\bin\Debug\net9.0\011-pi.runtimeconfig.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\011-pi\bin\Debug\net9.0\011-pi.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\011-pi\bin\Debug\net9.0\011-pi.pdb
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\011-pi\obj\Debug\net9.0\011-pi.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\011-pi\obj\Debug\net9.0\011-pi.AssemblyInfoInputs.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\011-pi\obj\Debug\net9.0\011-pi.AssemblyInfo.cs
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\011-pi\obj\Debug\net9.0\011-pi.csproj.CoreCompileInputs.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\011-pi\obj\Debug\net9.0\011-pi.sourcelink.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\011-pi\obj\Debug\net9.0\011-pi.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\011-pi\obj\Debug\net9.0\refint\011-pi.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\011-pi\obj\Debug\net9.0\011-pi.pdb
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\011-pi\obj\Debug\net9.0\011-pi.genruntimeconfig.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\011-pi\obj\Debug\net9.0\ref\011-pi.dll

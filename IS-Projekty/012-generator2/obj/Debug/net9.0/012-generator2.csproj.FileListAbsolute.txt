@@ -1,0 +1,15 @@
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\012-generator2\bin\Debug\net9.0\012-generator2.exe
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\012-generator2\bin\Debug\net9.0\012-generator2.deps.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\012-generator2\bin\Debug\net9.0\012-generator2.runtimeconfig.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\012-generator2\bin\Debug\net9.0\012-generator2.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\012-generator2\bin\Debug\net9.0\012-generator2.pdb
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\012-generator2\obj\Debug\net9.0\012-generator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\012-generator2\obj\Debug\net9.0\012-generator2.AssemblyInfoInputs.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\012-generator2\obj\Debug\net9.0\012-generator2.AssemblyInfo.cs
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\012-generator2\obj\Debug\net9.0\012-generator2.csproj.CoreCompileInputs.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\012-generator2\obj\Debug\net9.0\012-generator2.sourcelink.json
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\012-generator2\obj\Debug\net9.0\012-generator2.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\012-generator2\obj\Debug\net9.0\refint\012-generator2.dll
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\012-generator2\obj\Debug\net9.0\012-generator2.pdb
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\012-generator2\obj\Debug\net9.0\012-generator2.genruntimeconfig.cache
+C:\programming\IS-2024\github-nnk-is-2024-sk1\IS-Projekty\012-generator2\obj\Debug\net9.0\ref\012-generator2.dll
